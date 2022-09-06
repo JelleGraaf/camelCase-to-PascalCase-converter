@@ -1,2 +1,2 @@
 # camelCase-to-PascalCase-converter
-Script to convert PowerShell scripts that use camelCase to user PascalCase
+This is a script to convert PowerShell scripts that use camelCase to use PascalCase, because PascalCase is awesome and obviously the best style to use!
